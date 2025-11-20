@@ -32528,10 +32528,10 @@
                             }), (0,
                             di.jsxs)("p", {
                                 className: "text-xl mb-6",
-                                children: ["Bạn đã quay trúng ", (0,
+                                children: ["Bạn đã quay trúng cục sít", (0,
                                 di.jsx)("span", {
                                     className: "font-bold text-green-600",
-                                    children: "Cục cít"
+                                    children: ""
                                 })]
                             }), (0,
                             di.jsx)("p", {
